@@ -7,7 +7,7 @@ class Anagram
   end 
   
   def match(list)
-    
+    ordered_word = self.word.split("").sort 
   end 
   
 end 
