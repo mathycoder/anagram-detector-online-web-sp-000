@@ -9,7 +9,7 @@ class Anagram
   
   def match(list)
     ordered_word = self.word.split("").sort 
-    binding.pry 
+    
   end 
   
 end 
