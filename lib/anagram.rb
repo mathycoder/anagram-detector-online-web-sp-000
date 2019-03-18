@@ -8,6 +8,7 @@ class Anagram
   
   def match(list)
     ordered_word = self.word.split("").sort 
+    
   end 
   
 end 
